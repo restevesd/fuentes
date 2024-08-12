@@ -1,0 +1,21 @@
+EmployeeID,Name,Department,Position,Salary,YearsAtCompany,PerformanceScore,Age,Gender
+1,John Smith,Sales,Manager,75000,5,88,34,M
+2,Jane Doe,Marketing,Executive,82000,8,91,41,F
+3,Emily Davis,HR,Coordinator,56000,3,78,29,F
+4,Michael Brown,Engineering,Senior Engineer,95000,6,85,36,M
+5,Sarah Wilson,Finance,Analyst,67000,4,80,32,F
+6,David Lee,Engineering,Junior Engineer,62000,2,73,27,M
+7,Laura Martinez,Sales,Representative,54000,1,70,26,F
+8,James Johnson,Marketing,Specialist,60000,4,75,30,M
+9,Patricia Taylor,Finance,Manager,88000,7,89,38,F
+10,Robert White,HR,Director,105000,10,95,44,M
+11,Jessica Harris,Engineering,Engineer,80000,5,82,35,F
+12,Christopher Walker,Sales,Director,98000,9,92,42,M
+13,Amanda Robinson,Finance,Senior Analyst,78000,6,86,37,F
+14,Brian Lewis,Marketing,Coordinator,55000,2,74,28,M
+15,Megan Clark,HR,Specialist,59000,3,77,31,F
+16,Daniel Young,Engineering,Lead Engineer,102000,8,90,40,M
+17,Ashley King,Sales,Manager,76000,5,83,33,F
+18,Joshua Allen,Finance,Analyst,66000,3,79,29,M
+19,Samantha Wright,Marketing,Manager,87000,6,87,39,F
+20,Kevin Hill,Engineering,Intern,40000,1,65,24,M
